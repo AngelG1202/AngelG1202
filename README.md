@@ -10,7 +10,7 @@ Soy un profesional técnico-comercial enfocado en el diseño, dimensionamiento y
   * **Virtualización:** Proxmox VE (Clustering), VMware ESXi.
   * **Almacenamiento:** ZFS (RAIDZ1), Hardware RAID, Veeam Backup & Replication.
   * **Redes:** Switching, segmentación VLAN, cableado estructurado.
-* 📫 **Contáctame en:** [Tu Enlace de LinkedIn] | angel.gonzalez@stcpanama.net
+* 📫 **Contáctame en:** antonioangel1202@gmail.com
 
 ---
 
