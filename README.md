@@ -10,9 +10,9 @@ Soy un profesional técnico-comercial enfocado en el diseño, dimensionamiento y
   * **Virtualización:** Proxmox VE (Clustering), VMware ESXi.
   * **Almacenamiento:** ZFS (RAIDZ1), Hardware RAID, Veeam Backup & Replication.
   * **Redes:** Switching, segmentación VLAN, cableado estructurado.
-* **Contáctame en:
-* **Email: antonioangel1202@gmail.com
-* **Celular: 6299-9839
+* Contáctame en:
+* Email: antonioangel1202@gmail.com
+* Celular: 6299-9839
 ---
 
 ### Mis Proyectos Destacados
