@@ -10,11 +10,12 @@ Soy un profesional técnico-comercial enfocado en el diseño, dimensionamiento y
   * **Virtualización:** Proxmox VE (Clustering), VMware ESXi.
   * **Almacenamiento:** ZFS (RAIDZ1), Hardware RAID, Veeam Backup & Replication.
   * **Redes:** Switching, segmentación VLAN, cableado estructurado.
-* **Contáctame en:** antonioangel1202@gmail.com
-
+* **Contáctame en:
+* **Email: antonioangel1202@gmail.com
+* **Celular: 6299-9839
 ---
 
-### Mis Proyectos Destacados (Haz clic para ver la documentación)
+### Mis Proyectos Destacados
 
 1. [**Migración Multiplataforma y Clúster Proxmox VE - AltaPlaza**](https://github.com/AngelG1202/Migracion-Proxmox-AltaPlaza)
 2. [**Mantenimiento Crítico y Orquestación VMware - SSNF**](https://github.com/AngelG1202/Mantenimiento-Firmware-SSNF/tree/main).
