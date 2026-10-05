@@ -1,6 +1,6 @@
 # ¡Hola! Soy Angel González
 
-### Ingeniero de Preventa | Especialista en Infraestructura & Redes | Ciberseguridad
+### **Profesional de Preventa IT | Enfoque en Infraestructura, Ciberseguridad y Redes**
 
 Soy un profesional técnico-comercial enfocado en el diseño, dimensionamiento y despliegue de infraestructuras corporativas críticas. Transformo requerimientos complejos de negocio en arquitecturas de hardware sólidas, seguras y de alta disponibilidad.
 
