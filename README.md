@@ -17,5 +17,5 @@ Soy un profesional técnico-comercial enfocado en el diseño, dimensionamiento y
 
 ### Mis Proyectos Destacados
 
-1. [**Migración Multiplataforma y Clúster Proxmox VE](https://github.com/AngelG1202/Migracion-Proxmox-AltaPlaza).
+1. [**Migración Multiplataforma y Clúster Proxmox VE**](https://github.com/AngelG1202/Migracion-Proxmox-AltaPlaza).
 2. [**Mantenimiento Crítico y Orquestación VMware - SSNF**](https://github.com/AngelG1202/Mantenimiento-Firmware-SSNF/tree/main).
