@@ -6,7 +6,7 @@ Soy un profesional técnico-comercial enfocado en el diseño, dimensionamiento y
 
 * **Rol actual:** Ingeniero Técnico / Preventa (Cómputo, Servidores, Networking, CCTV).
 * **Tecnologías que domino:** 
-  * **Hardware:** Servidores HPE ProLiant Gen10/Gen11, HPE iLO 5/6.
+  * **Hardware:** Servidores HPE ProLiant, DELL PowerEdge.
   * **Virtualización:** Proxmox VE (Clustering), VMware ESXi.
   * **Almacenamiento:** ZFS (RAIDZ1), Hardware RAID, Veeam Backup & Replication.
   * **Redes:** Switching, segmentación VLAN, cableado estructurado.
